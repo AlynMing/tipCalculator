@@ -32,9 +32,12 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+<img src = "http://g.recordit.co/aq57hWFSTD.gif" width = 250><br>
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+Xcode would not commit files to github
+
 
 ## License
 
